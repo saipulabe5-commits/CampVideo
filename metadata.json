@@ -1,0 +1,8 @@
+{
+  "name": "AI Campaign Understanding Platform",
+  "description": "Desktop-first platform to transform long-form campaign videos into campaign-ready short videos through AI-powered understanding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
